@@ -11,3 +11,4 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2026-05-21] Just stay still! 
 1. [2026-05-26] Classical codes, CSS codes, and bounds on QECC 
 1. [2026-05-28] The Clifford group 
+1. [2026-06-02] Everything can go wrong
